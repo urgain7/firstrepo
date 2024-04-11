@@ -1,2 +1,3 @@
 # firstrepo
-this is my first repository
+This is my first repository.
+author-urgain mallik
